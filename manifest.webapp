@@ -1,5 +1,5 @@
 {
-  "name": "Template",
+  "name": "My Clock",
   "description": "Web app template",
   "launch_path": "/index.html",
   "developer": {
@@ -7,7 +7,7 @@
   },
   "locales": {
     "en-US": {
-      "name": "Template",
+      "name": "My Clock",
       "description": "Web app template"
     }
   },
