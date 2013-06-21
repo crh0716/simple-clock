@@ -1,7 +1,7 @@
 {
   "name": "My Clock",
   "description": "Web app template",
-  "launch_path": "/index.html",
+  "launch_path": "/simple-clock/index.html",
   "developer": {
     "name": "Your name"
   },
@@ -13,6 +13,6 @@
   },
   "default_locale": "en-US",
   "icons": {
-    "128": "/style/icons/Blank.png"
+    "128": "/simple-clock/style/icons/Blank.png"
   }
 }
